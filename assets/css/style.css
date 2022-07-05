@@ -546,7 +546,7 @@ section {
 .counts .count-box p {
   padding: 0;
   margin: 0;
-  font-family: "Raleway", sans-serif;
+  font-family: "monospace", monospace;
   font-size: 14px;
 }
 
@@ -949,7 +949,7 @@ section {
   font-size: 46px;
   color: #5a5af3;
   font-weight: 400;
-  font-family: "Open Sans", sans-serif;
+  font-family: "monospace", monospace;
   margin-bottom: 25px;
 }
 .pricing h4 span {
@@ -990,7 +990,7 @@ section {
   transition: none;
   font-size: 14px;
   font-weight: 400;
-  font-family: "Raleway", sans-serif;
+  font-family: "monospace", monospace;
   transition: 0.3s;
   border: none;
 }
@@ -1274,7 +1274,7 @@ section {
   font-size: 14px;
   line-height: 24px;
   margin-bottom: 0;
-  font-family: "Raleway", sans-serif;
+  font-family: "monospace", monospace;
   color: #777777;
 }
 #footer .footer-top h4 {
